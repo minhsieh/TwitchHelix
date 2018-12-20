@@ -1,0 +1,14 @@
+{
+    "name": "minhsieh/twitch-helix",
+    "description": "This is a client for twitch helix API with PHP",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "minhsieh",
+            "email": "side112358@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
